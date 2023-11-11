@@ -1,4 +1,4 @@
-### Hello, people!
+### Welcome to my humble GitHub!
 
 A quick intro on myself:
 
