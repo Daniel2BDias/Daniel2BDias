@@ -1,14 +1,14 @@
 ### Hello, people!
 
-Here are some ideas to get you started:
+A quick intro on myself:
 
 - 🌱 A Inherent and in-born interest for new tecnologies.
-- 👯 I’m looking to collaborate on any project that you may need my knowledge.
-- 💬 Ask me about anything you see fit and I'll undoubtedly answer it.
+- 👯 Will always love to collaborate on any project that you may need my knowledge.
+- 💬 Ask me about anything you see fit and I'll undoubtedly answer it in the most utterly honest, sincere way.
 - ⚡ Fun fact: Spiders are the only web developers that like to find bugs.
 
 
---> Currently I speak 2 languages Portuguese(native) and English(Advanced);
+--> Languages: Portuguese(native) and English(Advanced);
     Also, I'm studying German (basic) and Spanish(Intermediate).
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
